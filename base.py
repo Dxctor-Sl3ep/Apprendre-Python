@@ -4,9 +4,10 @@ print("Hello")
 
 #Etape 3 : une fonction
 nom = "Hush" #str
-healt = 100 #int 
+health = 100 #int 
 shield = True #bool
 shoot = 15.5 #float
 
 print(nom)
-print(type(shield))
+print(type(health))
+print(type(shoot) == int )
