@@ -19,31 +19,31 @@ résultat, mais aussi de rendre le programme compréhensible et agréable à uti
 
 Déclare deux variables avec des valeurs prédéfinies et calcule :
 
-- l'addition : `x + y`
-- la soustraction : `x - y`
-- la multiplication : `x * y`
-- la division : `x / y`
+- l'addition 
+- la soustraction  
+- la multiplication 
+- la division 
 
 **Validation :** les quatre résultats sont affichés correctement.
 
-### Étape 2 — Choisir `x`
-
-Remplace la valeur prédéfinie de `x` par une valeur saisie par l'utilisateur.
-
-**Validation :** le programme utilise bien le nombre fourni par l'utilisateur.
-
-### Étape 3 — Choisir `y`
-
-Fais la même chose pour `y`.
-
-**Validation :** l'utilisateur choisit les deux nombres avant le calcul.
-
-### Étape 4 — Maîtriser les décimales
+### Étape 2 — Maîtriser les décimales
 
 Affiche les résultats avec au maximum deux chiffres après la virgule.
 
 **Validation :** un résultat comme `5` ne devient pas inutilement `5.00`,
 mais un résultat comme `3.14159` est affiché sous la forme `3.14`.
+
+### Étape 3 — Choisir `x`
+
+Remplace la valeur prédéfinie de `x` par une valeur saisie par l'utilisateur.
+
+**Validation :** le programme utilise bien le nombre fourni par l'utilisateur.
+
+### Étape 4 — Choisir `y`
+
+Fais la même chose pour `y`.
+
+**Validation :** l'utilisateur choisit les deux nombres avant le calcul.
 
 ### Étape 5 — Améliorer les messages
 
